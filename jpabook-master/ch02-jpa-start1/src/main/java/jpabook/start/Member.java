@@ -5,6 +5,8 @@ import javax.persistence.*;  //**
 /**
  * User: HolyEyE
  * Date: 13. 5. 24. Time: 오후 7:43
+ * ----
+ * 22. 6. 7 - kadun JPA 공부 1일차
  */
 @Entity
 @Table(name="MEMBER")
